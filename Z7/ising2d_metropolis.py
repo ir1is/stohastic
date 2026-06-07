@@ -4,9 +4,6 @@ from pathlib import Path
 
 import numpy as np
 
-
-# Default parametri su manji od C primjera da se program moze brzo pokrenuti.
-# Za originalne parametre iz C koda pokreni program s opcijom --full.
 L = 32
 DKT = 0.1
 KT0 = 1.0
